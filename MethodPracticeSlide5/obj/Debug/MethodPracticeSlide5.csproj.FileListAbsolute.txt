@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodPracticeSlide5\MethodPracticeSlide5\bin\Debug\MethodPracticeSlide5.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodPracticeSlide5\MethodPracticeSlide5\obj\Debug\MethodPracticeSlide5.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodPracticeSlide5\MethodPracticeSlide5\bin\Debug\MethodPracticeSlide5.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodPracticeSlide5\MethodPracticeSlide5\bin\Debug\MethodPracticeSlide5.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodPracticeSlide5\MethodPracticeSlide5\obj\Debug\MethodPracticeSlide5.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodPracticeSlide5\MethodPracticeSlide5\obj\Debug\MethodPracticeSlide5.pdb
